@@ -46,11 +46,11 @@
 
 ## 屏幕截图
 
-![1](/Users/mikoto/Programs/dell-optiplex-9020m-hackintosh/1.png)
+![1](https://github.com/Misumimikoto/dell-optiplex-9020m-hackintosh/blob/master/1.png)
 
-![2](/Users/mikoto/Programs/dell-optiplex-9020m-hackintosh/2.png)
+![2](https://github.com/Misumimikoto/dell-optiplex-9020m-hackintosh/blob/master/2.png)
 
-![3](/Users/mikoto/Programs/dell-optiplex-9020m-hackintosh/3.png)
+![3](https://github.com/Misumimikoto/dell-optiplex-9020m-hackintosh/blob/master/3.png)
 
 ## 致谢
 
