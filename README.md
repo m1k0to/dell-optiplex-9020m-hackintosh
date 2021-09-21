@@ -1,4 +1,4 @@
-# Dell-Optilex-9020m-Hackintosh
+# Dell-OptiPlex-9020m-Hackintosh
 
 ## 详细配置信息
 
